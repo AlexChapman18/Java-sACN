@@ -43,7 +43,6 @@ public class sACNDataPacket {
             e.printStackTrace();
         }
         this.CID = asBytes(UUID.randomUUID());
-
     }
 
     public static byte[] asBytes(UUID uuid) {
