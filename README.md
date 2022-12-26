@@ -1,3 +1,5 @@
 # Java-sACN
 
-JAVA 8 COMPILE RPI VERY SAD IF NOT
+Java program used to create and send sACN datagram packets
+
+Very much a work and in-progress and not finished
